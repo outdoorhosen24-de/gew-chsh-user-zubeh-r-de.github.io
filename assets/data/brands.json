@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,66 +7,66 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "juliana",
+        "name": "Juliana",
+        "slug": "juliana",
+        "productCategory": "Juliana",
+        "localThumb": "/assets/images/hersteller/juliana.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "vitavia",
+        "name": "Vitavia",
+        "slug": "vitavia",
+        "productCategory": "Vitavia",
+        "localThumb": "/assets/images/hersteller/vitavia.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "gartenfreude",
+        "name": "Gartenfreude",
+        "slug": "gartenfreude",
+        "productCategory": "Gartenfreude",
+        "localThumb": "/assets/images/hersteller/gartenfreude.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "shelter logic",
+        "name": "Shelter Logic",
+        "slug": "shelter-logic",
+        "productCategory": "Shelter Logic",
+        "localThumb": "/assets/images/hersteller/shelter-logic.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "canopia by palram",
+        "name": "CANOPIA by PALRAM",
+        "slug": "canopia-by-palram",
+        "productCategory": "CANOPIA by PALRAM",
+        "localThumb": "/assets/images/hersteller/canopia-by-palram.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "halls",
+        "name": "Halls",
+        "slug": "halls",
+        "productCategory": "Halls",
+        "localThumb": "/assets/images/hersteller/halls.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "kgt",
+        "name": "KGT",
+        "slug": "kgt",
+        "productCategory": "KGT",
+        "localThumb": "/assets/images/hersteller/kgt.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "pergart",
+        "name": "Pergart",
+        "slug": "pergart",
+        "productCategory": "Pergart",
+        "localThumb": "/assets/images/hersteller/pergart.webp"
     }
 ]
