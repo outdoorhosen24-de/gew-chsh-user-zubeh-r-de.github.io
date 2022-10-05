@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
+    "hostname": "https://www.gew\u00e4chsh\u00e4user-zubeh\u00f6r.de/",
+    "email": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.desurrealnetworks.io",
+    "organization": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
+    "logoText": "Gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
+    "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+    "subline": "Der Online Shop f\u00fcr Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "2976264",
+        "9052267",
+        "2976959",
+        "8366775",
+        "2976868",
+        "2893931"
+    ],
+    "winnerProducts": [
+        "2976249",
+        "2977122",
+        "9052184"
+    ],
+    "featuredCategories": [
+        "Gew\u00e4chsh\u00e4user",
+        "Gew\u00e4chsh\u00e4user",
+        "Gew\u00e4chsh\u00e4user",
+        "Gew\u00e4chshaus-Zubeh\u00f6r",
+        "Gew\u00e4chsh\u00e4user",
+        "Gew\u00e4chshaus-Zubeh\u00f6r"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
-        "featureText": "Your featured text goes here",
+        "featureText": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r ist ein Shop, der alles f\u00fcr den Anbau von Pflanzen und Gem\u00fcse ben\u00f6tigt. Vom Gew\u00e4chshaus selbst \u00fcber die Beleuchtung und Bew\u00e4sserung bis hin zu den Pflanzen selbst findet man alles, was man f\u00fcr den Anbau von Pflanzen und Gem\u00fcse ben\u00f6tigt.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - alles f\u00fcr Ihren Garten! Top Qualit\u00e4t zu g\u00fcnstigen Preisen. Schneller Versand.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+                    "text": "Gew\u00e4chsh\u00e4user sind ideal f\u00fcr die Aufzucht von Pflanzen aller Art. Sie sch\u00fctzen die Pflanzen vor Wind und Wetter und sorgen f\u00fcr ein optimales Klima. Bei der Auswahl eines Gew\u00e4chshauses sollten Sie jedoch einige Punkte beachten. Zun\u00e4chst einmal muss das Gew\u00e4chshaus nat\u00fcrlich ausreichend gro\u00df sein, damit Sie alle Pflanzen unterbringen k\u00f6nnen, die Sie aufziehen m\u00f6chten. Achten Sie au\u00dferdem darauf, dass das Gew\u00e4chshaus aus hochwertigen Materialien gefertigt ist, damit es lange haltbar ist.\n\nWenn Sie sich f\u00fcr ein Gew\u00e4chshaus entschieden haben, sollten Sie auch einige Zubeh\u00f6rteile anschaffen. Dazu geh\u00f6ren zum Beispiel Regale, auf denen Sie die Pflanzen aufstellen k\u00f6nnen, oder ein Bew\u00e4sserungssystem, damit Sie die Pflanzen ganz einfach gie\u00dfen k\u00f6nnen. Auch ein Thermometer ist sehr n\u00fctzlich, damit Sie die Temperatur im Gew\u00e4chshaus immer im Blick haben. Mit dem richtigen Zubeh\u00f6r k\u00f6nnen Sie Ihr Gew\u00e4chshaus ganz einfach selbst einrichten und so die perfekten Bedingungen f\u00fcr Ihre Pflanzen schaffen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Shop",
+            "metaDescription": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Shop - Hier findest du alles, was du f\u00fcr dein Gew\u00e4chshaus brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Manufacturer",
+            "metaDescription": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Finden Sie den passenden Gew\u00e4chshaus Hersteller f\u00fcr Ihren Anbau. W\u00e4hlen Sie aus unserer Liste der Top-Gew\u00e4chshaus-Hersteller.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Gew\u00e4chshaus & Zubeh\u00f6r",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Gew\u00e4chsh\u00e4user & Zubeh\u00f6r f\u00fcr den Anbau von Obst, Gem\u00fcse & Kr\u00e4utern. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+        "defaultMetaDescription": "$KATEGORIE Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Hier findest du alles f\u00fcr dein Gew\u00e4chshaus, vom Grundger\u00fcst \u00fcber die Beleuchtung bis hin zur Bew\u00e4sserung.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Hier finden Sie alles f\u00fcr Ihren Garten: Gew\u00e4chsh\u00e4user, Zubeh\u00f6r und mehr. Top Qualit\u00e4t zu g\u00fcnstigen Preisen!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
