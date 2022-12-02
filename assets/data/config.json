@@ -51,12 +51,15 @@
             "title": "Gewächshäuser & Zubehör - Alles für Ihren Garten!",
             "metaDescription": "Gewächshäuser & Zubehör - alles für Ihren Garten! Top Qualität zu günstigen Preisen. Schneller Versand.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gewächshäuser & Zubehör",
-                    "text": "Gewächshäuser sind ideal für die Aufzucht von Pflanzen aller Art. Sie schützen die Pflanzen vor Wind und Wetter und sorgen für ein optimales Klima. Bei der Auswahl eines Gewächshauses sollten Sie jedoch einige Punkte beachten. Zunächst einmal muss das Gewächshaus natürlich ausreichend groß sein, damit Sie alle Pflanzen unterbringen können, die Sie aufziehen möchten. Achten Sie außerdem darauf, dass das Gewächshaus aus hochwertigen Materialien gefertigt ist, damit es lange haltbar ist.\n\nWenn Sie sich für ein Gewächshaus entschieden haben, sollten Sie auch einige Zubehörteile anschaffen. Dazu gehören zum Beispiel Regale, auf denen Sie die Pflanzen aufstellen können, oder ein Bewässerungssystem, damit Sie die Pflanzen ganz einfach gießen können. Auch ein Thermometer ist sehr nützlich, damit Sie die Temperatur im Gewächshaus immer im Blick haben. Mit dem richtigen Zubehör können Sie Ihr Gewächshaus ganz einfach selbst einrichten und so die perfekten Bedingungen für Ihre Pflanzen schaffen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gewächshäuser & Zubehör",
+                        "text": "Gewächshäuser sind ideal für die Aufzucht von Pflanzen aller Art. Sie schützen die Pflanzen vor Wind und Wetter und sorgen für ein optimales Klima. Bei der Auswahl eines Gewächshauses sollten Sie jedoch einige Punkte beachten. Zunächst einmal muss das Gewächshaus natürlich ausreichend groß sein, damit Sie alle Pflanzen unterbringen können, die Sie aufziehen möchten. Achten Sie außerdem darauf, dass das Gewächshaus aus hochwertigen Materialien gefertigt ist, damit es lange haltbar ist.\n\nWenn Sie sich für ein Gewächshaus entschieden haben, sollten Sie auch einige Zubehörteile anschaffen. Dazu gehören zum Beispiel Regale, auf denen Sie die Pflanzen aufstellen können, oder ein Bewässerungssystem, damit Sie die Pflanzen ganz einfach gießen können. Auch ein Thermometer ist sehr nützlich, damit Sie die Temperatur im Gewächshaus immer im Blick haben. Mit dem richtigen Zubehör können Sie Ihr Gewächshaus ganz einfach selbst einrichten und so die perfekten Bedingungen für Ihre Pflanzen schaffen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gewächshäuser & Zubehör Shop",
