@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gewächshäuser-zubehör.de",
     "hostname": "https://www.gewächshäuser-zubehör.de/",
     "email": "gewächshäuser-zubehör.de@surrealnetworks.io",
     "organization": "gewächshäuser-zubehör.de",
     "logoText": "Gewächshäuser-zubehör.de",
     "title": "Gewächshäuser & Zubehör",
-    "subline": "Der Online Shop für Gewächshäuser & Zubehör",
+    "subline": "Der Online Shop für Selbstversorger",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gewächshäuser & Zubehör",
-        "featureText": "Gewächshäuser & Zubehör ist ein Shop, der alles für den Anbau von Pflanzen und Gemüse benötigt. Vom Gewächshaus selbst über die Beleuchtung und Bewässerung bis hin zu den Pflanzen selbst findet man alles, was man für den Anbau von Pflanzen und Gemüse benötigt.",
+        "featureText": "Bei uns finden Sie alles rund um Gewächshäuser. Wir bieten Ihnen sowohl Gewächshäuser im Ganzen als auch entsprechendes Zubehör. Hierzu zählen Fundamente, Pflanztische, Rollos, automatische Dachlüfter und vieles mehr. Dabei setzen wir auf höchste Qualitätsstandards und bieten ausschließlich Markenprodukte an.  ",
         "index": {
-            "title": "Gewächshäuser & Zubehör - Alles für Ihren Garten!",
-            "metaDescription": "Gewächshäuser & Zubehör - alles für Ihren Garten! Top Qualität zu günstigen Preisen. Schneller Versand.",
+            "title": "Gewächshäuser & Zubehör - Alles für Ihre Pflanzen ",
+            "metaDescription": "Ob Gewächshäuser im Ganzen oder entsprechendes Zubehör - bei uns einfach online bestellen. Hohe Qualität zu fairen Preisen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gewächshäuser & Zubehör Shop",
-            "metaDescription": "Gewächshäuser & Zubehör Shop - Hier findest du alles, was du für dein Gewächshaus brauchst!",
+            "title": "Shop für Gewächshäuser & Zubehör",
+            "metaDescription": "Der Online Shop für Gewächshäuser im Ganzen sowie Zubehör jeglicher Art - ein Zuhause für Ihre Pflanzen einfach per Mausklick bestellen!",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gewächshäuser & Zubehör - Manufacturer",
-            "metaDescription": "Gewächshäuser & Zubehör - Finden Sie den passenden Gewächshaus Hersteller für Ihren Anbau. Wählen Sie aus unserer Liste der Top-Gewächshaus-Hersteller.",
+            "title": "Gewächshäuser & Zubehör - hochwertige Markenprodukte",
+            "metaDescription": "Gewächshäuser & Zubehör! Qualitätsprodukte von Marken wie KGT, Shelter Logic, Dobar, Juliana etc. - bei uns einfach online kaufen!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Gewächshaus & Zubehör",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Gewächshäuser & Zubehör für den Anbau von Obst, Gemüse & Kräutern. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT - günstig kaufen",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Passende Produkte der Kategorie $KATEGORIE für Ihren Anbau von Obst & Gemüse. Jetzt online bestellen! ",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Gewächshäuser & Zubehör",
-        "defaultMetaDescription": "$KATEGORIE Gewächshäuser & Zubehör - Hier findest du alles für dein Gewächshaus, vom Grundgerüst über die Beleuchtung bis hin zur Bewässerung.",
+        "defaultTitle": "$KATEGORIE | Gewächshäuser & Zubehör",
+        "defaultMetaDescription": "$KATEGORIE Gewächshäuser von hoher Qualität sowie sämtliches Zubehör, wie z.B. Fundamente, Pflanzregale, Dachlüfter, Rollos - Hier finden Sie alles!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Gewächshäuser & Zubehör - Hier finden Sie alles für Ihren Garten: Gewächshäuser, Zubehör und mehr. Top Qualität zu günstigen Preisen!",
+        "defaultTitle": "$HERSTELLER - Markenprodukte zu fairen Preisen",
+        "defaultMetaDescription": "Bei uns finden Sie hochwertige Produkte von renommierten Herstellern wie $HERSTELLER - Gewächshäuser & Zubehör in Top Qualität zu fairen Preisen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
