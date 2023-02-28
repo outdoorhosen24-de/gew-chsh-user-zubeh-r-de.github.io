@@ -52,11 +52,19 @@
             "metaDescription": "Ob Gewächshäuser im Ganzen oder entsprechendes Zubehör - bei uns einfach online bestellen. Hohe Qualität zu fairen Preisen!",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Gewächshäuser & Zubehör",
-                        "text": "Gewächshäuser sind ideal für die Aufzucht von Pflanzen aller Art. Sie schützen die Pflanzen vor Wind und Wetter und sorgen für ein optimales Klima. Bei der Auswahl eines Gewächshauses sollten Sie jedoch einige Punkte beachten. Zunächst einmal muss das Gewächshaus natürlich ausreichend groß sein, damit Sie alle Pflanzen unterbringen können, die Sie aufziehen möchten. Achten Sie außerdem darauf, dass das Gewächshaus aus hochwertigen Materialien gefertigt ist, damit es lange haltbar ist.\n\nWenn Sie sich für ein Gewächshaus entschieden haben, sollten Sie auch einige Zubehörteile anschaffen. Dazu gehören zum Beispiel Regale, auf denen Sie die Pflanzen aufstellen können, oder ein Bewässerungssystem, damit Sie die Pflanzen ganz einfach gießen können. Auch ein Thermometer ist sehr nützlich, damit Sie die Temperatur im Gewächshaus immer im Blick haben. Mit dem richtigen Zubehör können Sie Ihr Gewächshaus ganz einfach selbst einrichten und so die perfekten Bedingungen für Ihre Pflanzen schaffen."
+                        "title": "Willkommen auf Gewächshäuser-Zubehör.de",
+                        "text": "Herzlich willkommen auf Gewächshäuser-Zubehör.de, Ihrem Online-Shop für hochwertige Gewächshäuser und Zubehör. Unser Ziel ist es, Ihnen eine breite Auswahl an qualitativ hochwertigen Produkten zu bieten, die Ihnen dabei helfen, Ihren Garten in eine grüne Oase zu verwandeln. Ob Sie ein erfahrener Gärtner sind oder einfach nur den ersten Schritt in die Welt des Gärtnerns machen möchten, wir haben das passende Angebot für Sie. Unsere Gewächshäuser sind robust und langlebig, um Ihnen jahrelange Freude zu bereiten. Mit unserem Zubehör können Sie Ihr Gewächshaus individuell an Ihre Bedürfnisse anpassen und es optimal nutzen. Besuchen Sie uns noch heute und entdecken Sie unser vielfältiges Angebot."
+                    },
+                    {
+                        "title": "Gewächshäuser",
+                        "text": "In unserem Online-Shop für <a href=\"/kategorie/gewaechshaeuser/\" title=\"Gewächshäuser\">Gewächshäuser</a> und Zubehör finden Sie eine große Auswahl an Gewächshäusern in verschiedenen Größen und Ausführungen. Unsere Gewächshäuser sind aus hochwertigen Materialien gefertigt und bieten Schutz für Ihre Pflanzen vor den Witterungseinflüssen. Ob Sie ein kleines Gewächshaus für Ihren Balkon oder ein großes für Ihren Garten suchen, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Angebot und finden Sie das perfekte Gewächshaus für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Gewächshaus-Zubehör",
+                        "text": "Neben Gewächshäusern bieten wir auch eine Vielzahl an Zubehör für Gewächshäuser an. Von Pflanzenständern über Belüftungssysteme bis hin zu Beleuchtungslösungen finden Sie bei uns alles, was Sie für Ihr Gewächshaus benötigen. Unser Zubehör ist ebenfalls aus hochwertigen Materialien gefertigt und sorgt für ein optimales Wachstum Ihrer Pflanzen. Stöbern Sie jetzt durch unser Angebot und finden Sie das passende Zubehör für Ihr Gewächshaus."
                     }
                 ]
             }
