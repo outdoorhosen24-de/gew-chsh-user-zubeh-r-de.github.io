@@ -2,14 +2,14 @@
     {
         "key": "gewächshäuser",
         "name": "Gewächshäuser",
-        "slug": "gewachshauser",
+        "slug": "gewaechshaeuser",
         "productCategory": "Gewächshäuser",
         "subCategories": []
     },
     {
         "key": "gewächshaus-zubehör",
         "name": "Gewächshaus-Zubehör",
-        "slug": "gewachshaus-zubehor",
+        "slug": "gewaechshaus-zubehoer",
         "productCategory": "Gewächshaus-Zubehör",
         "subCategories": []
     }
