@@ -1,172 +1,175 @@
 {
-    "configIsReady": true,
-    "domain": "gewächshäuser-zubehör.de",
-    "hostname": "https://www.gewächshäuser-zubehör.de/",
-    "email": "gewächshäuser-zubehör.de@surrealnetworks.io",
-    "organization": "gewächshäuser-zubehör.de",
-    "logoText": "Gewächshäuser-zubehör.de",
-    "title": "Gewächshäuser & Zubehör",
-    "subline": "Der Online Shop für Selbstversorger",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "2976264",
-        "9052267",
-        "2976959",
-        "8366775",
-        "2976868",
-        "2893931"
-    ],
-    "winnerProducts": [
-        "2976249",
-        "2977122",
-        "9052184"
-    ],
-    "featuredCategories": [
-        "Gewächshäuser",
-        "Gewächshäuser",
-        "Gewächshäuser",
-        "Gewächshaus-Zubehör",
-        "Gewächshäuser",
-        "Gewächshaus-Zubehör"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Gewächshäuser & Zubehör",
-        "featureText": "Bei uns finden Sie alles rund um Gewächshäuser. Wir bieten Ihnen sowohl Gewächshäuser im Ganzen als auch entsprechendes Zubehör. Hierzu zählen Fundamente, Pflanztische, Rollos, automatische Dachlüfter und vieles mehr. Dabei setzen wir auf höchste Qualitätsstandards und bieten ausschließlich Markenprodukte an.  ",
-        "index": {
-            "title": "Gewächshäuser & Zubehör - Alles für Ihre Pflanzen ",
-            "metaDescription": "Ob Gewächshäuser im Ganzen oder entsprechendes Zubehör - bei uns einfach online bestellen. Hohe Qualität zu fairen Preisen!",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen auf Gewächshäuser-Zubehör.de",
-                        "text": "Herzlich willkommen auf Gewächshäuser-Zubehör.de, Ihrem Online-Shop für hochwertige Gewächshäuser und Zubehör. Unser Ziel ist es, Ihnen eine breite Auswahl an qualitativ hochwertigen Produkten zu bieten, die Ihnen dabei helfen, Ihren Garten in eine grüne Oase zu verwandeln. Ob Sie ein erfahrener Gärtner sind oder einfach nur den ersten Schritt in die Welt des Gärtnerns machen möchten, wir haben das passende Angebot für Sie. Unsere Gewächshäuser sind robust und langlebig, um Ihnen jahrelange Freude zu bereiten. Mit unserem Zubehör können Sie Ihr Gewächshaus individuell an Ihre Bedürfnisse anpassen und es optimal nutzen. Besuchen Sie uns noch heute und entdecken Sie unser vielfältiges Angebot."
-                    },
-                    {
-                        "title": "Gewächshäuser",
-                        "text": "In unserem Online-Shop für <a href=\"/kategorie/gewaechshaeuser/\" title=\"Gewächshäuser\">Gewächshäuser</a> und Zubehör finden Sie eine große Auswahl an Gewächshäusern in verschiedenen Größen und Ausführungen. Unsere Gewächshäuser sind aus hochwertigen Materialien gefertigt und bieten Schutz für Ihre Pflanzen vor den Witterungseinflüssen. Ob Sie ein kleines Gewächshaus für Ihren Balkon oder ein großes für Ihren Garten suchen, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Angebot und finden Sie das perfekte Gewächshaus für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Gewächshaus-Zubehör",
-                        "text": "Neben Gewächshäusern bieten wir auch eine Vielzahl an Zubehör für Gewächshäuser an. Von Pflanzenständern über Belüftungssysteme bis hin zu Beleuchtungslösungen finden Sie bei uns alles, was Sie für Ihr Gewächshaus benötigen. Unser Zubehör ist ebenfalls aus hochwertigen Materialien gefertigt und sorgt für ein optimales Wachstum Ihrer Pflanzen. Stöbern Sie jetzt durch unser Angebot und finden Sie das passende Zubehör für Ihr Gewächshaus."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Shop für Gewächshäuser & Zubehör",
-            "metaDescription": "Der Online Shop für Gewächshäuser im Ganzen sowie Zubehör jeglicher Art - ein Zuhause für Ihre Pflanzen einfach per Mausklick bestellen!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Gewächshäuser & Zubehör - hochwertige Markenprodukte",
-            "metaDescription": "Gewächshäuser & Zubehör! Qualitätsprodukte von Marken wie KGT, Shelter Logic, Dobar, Juliana etc. - bei uns einfach online kaufen!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - günstig kaufen",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Passende Produkte der Kategorie $KATEGORIE für Ihren Anbau von Obst & Gemüse. Jetzt online bestellen! ",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
+  "hostname": "https://www.gew\u00e4chsh\u00e4user-zubeh\u00f6r.de/",
+  "email": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de@surrealnetworks.io",
+  "organization": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
+  "logoText": "Gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
+  "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+  "subline": "Der Online Shop f\u00fcr Selbstversorger",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "2976264",
+    "9052267",
+    "2976959",
+    "8366775",
+    "2976868",
+    "2893931"
+  ],
+  "winnerProducts": [
+    "2976249",
+    "2977122",
+    "9052184"
+  ],
+  "featuredCategories": [
+    "Gew\u00e4chsh\u00e4user",
+    "Gew\u00e4chsh\u00e4user",
+    "Gew\u00e4chsh\u00e4user",
+    "Gew\u00e4chshaus-Zubeh\u00f6r",
+    "Gew\u00e4chsh\u00e4user",
+    "Gew\u00e4chshaus-Zubeh\u00f6r"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+    "featureText": "Bei uns finden Sie alles rund um Gew\u00e4chsh\u00e4user. Wir bieten Ihnen sowohl Gew\u00e4chsh\u00e4user im Ganzen als auch entsprechendes Zubeh\u00f6r. Hierzu z\u00e4hlen Fundamente, Pflanztische, Rollos, automatische Dachl\u00fcfter und vieles mehr. Dabei setzen wir auf h\u00f6chste Qualit\u00e4tsstandards und bieten ausschlie\u00dflich Markenprodukte an.  ",
+    "index": {
+      "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Alles f\u00fcr Ihre Pflanzen ",
+      "metaDescription": "Ob Gew\u00e4chsh\u00e4user im Ganzen oder entsprechendes Zubeh\u00f6r - bei uns einfach online bestellen. Hohe Qualit\u00e4t zu fairen Preisen!",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen auf Gew\u00e4chsh\u00e4user-Zubeh\u00f6r.de",
+            "text": "Herzlich willkommen auf Gew\u00e4chsh\u00e4user-Zubeh\u00f6r.de, Ihrem Online-Shop f\u00fcr hochwertige Gew\u00e4chsh\u00e4user und Zubeh\u00f6r. Unser Ziel ist es, Ihnen eine breite Auswahl an qualitativ hochwertigen Produkten zu bieten, die Ihnen dabei helfen, Ihren Garten in eine gr\u00fcne Oase zu verwandeln. Ob Sie ein erfahrener G\u00e4rtner sind oder einfach nur den ersten Schritt in die Welt des G\u00e4rtnerns machen m\u00f6chten, wir haben das passende Angebot f\u00fcr Sie. Unsere Gew\u00e4chsh\u00e4user sind robust und langlebig, um Ihnen jahrelange Freude zu bereiten. Mit unserem Zubeh\u00f6r k\u00f6nnen Sie Ihr Gew\u00e4chshaus individuell an Ihre Bed\u00fcrfnisse anpassen und es optimal nutzen. Besuchen Sie uns noch heute und entdecken Sie unser vielf\u00e4ltiges Angebot."
+          },
+          {
+            "title": "Gew\u00e4chsh\u00e4user",
+            "text": "In unserem Online-Shop f\u00fcr <a href=\"/kategorie/gewaechshaeuser/\" title=\"Gew\u00e4chsh\u00e4user\">Gew\u00e4chsh\u00e4user</a> und Zubeh\u00f6r finden Sie eine gro\u00dfe Auswahl an Gew\u00e4chsh\u00e4usern in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Unsere Gew\u00e4chsh\u00e4user sind aus hochwertigen Materialien gefertigt und bieten Schutz f\u00fcr Ihre Pflanzen vor den Witterungseinfl\u00fcssen. Ob Sie ein kleines Gew\u00e4chshaus f\u00fcr Ihren Balkon oder ein gro\u00dfes f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie das perfekte Gew\u00e4chshaus f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Gew\u00e4chshaus-Zubeh\u00f6r",
+            "text": "Neben Gew\u00e4chsh\u00e4usern bieten wir auch eine Vielzahl an Zubeh\u00f6r f\u00fcr Gew\u00e4chsh\u00e4user an. Von Pflanzenst\u00e4ndern \u00fcber Bel\u00fcftungssysteme bis hin zu Beleuchtungsl\u00f6sungen finden Sie bei uns alles, was Sie f\u00fcr Ihr Gew\u00e4chshaus ben\u00f6tigen. Unser Zubeh\u00f6r ist ebenfalls aus hochwertigen Materialien gefertigt und sorgt f\u00fcr ein optimales Wachstum Ihrer Pflanzen. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihr Gew\u00e4chshaus."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Gewächshäuser & Zubehör",
-        "defaultMetaDescription": "$KATEGORIE Gewächshäuser von hoher Qualität sowie sämtliches Zubehör, wie z.B. Fundamente, Pflanzregale, Dachlüfter, Rollos - Hier finden Sie alles!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Shop f\u00fcr Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+      "metaDescription": "Der Online Shop f\u00fcr Gew\u00e4chsh\u00e4user im Ganzen sowie Zubeh\u00f6r jeglicher Art - ein Zuhause f\u00fcr Ihre Pflanzen einfach per Mausklick bestellen!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Markenprodukte zu fairen Preisen",
-        "defaultMetaDescription": "Bei uns finden Sie hochwertige Produkte von renommierten Herstellern wie $HERSTELLER - Gewächshäuser & Zubehör in Top Qualität zu fairen Preisen!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Gewächshäuser & Zubehör",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Gewächshäuser & Zubehör Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Gewächshäuser & Zubehör Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - hochwertige Markenprodukte",
+      "metaDescription": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r! Qualit\u00e4tsprodukte von Marken wie KGT, Shelter Logic, Dobar, Juliana etc. - bei uns einfach online kaufen!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - g\u00fcnstig kaufen",
+    "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Passende Produkte der Kategorie $KATEGORIE f\u00fcr Ihren Anbau von Obst & Gem\u00fcse. Jetzt online bestellen! ",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+    "defaultMetaDescription": "$KATEGORIE Gew\u00e4chsh\u00e4user von hoher Qualit\u00e4t sowie s\u00e4mtliches Zubeh\u00f6r, wie z.B. Fundamente, Pflanzregale, Dachl\u00fcfter, Rollos - Hier finden Sie alles!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Markenprodukte zu fairen Preisen",
+    "defaultMetaDescription": "Bei uns finden Sie hochwertige Produkte von renommierten Herstellern wie $HERSTELLER - Gew\u00e4chsh\u00e4user & Zubeh\u00f6r in Top Qualit\u00e4t zu fairen Preisen!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
