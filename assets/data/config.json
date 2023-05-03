@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
-  "hostname": "https://www.gew\u00e4chsh\u00e4user-zubeh\u00f6r.de/",
-  "email": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de@surrealnetworks.io",
-  "organization": "gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
-  "logoText": "Gew\u00e4chsh\u00e4user-zubeh\u00f6r.de",
-  "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
-  "subline": "Der Online Shop f\u00fcr Selbstversorger",
+  "domain": "gewächshäuser-zubehör.de",
+  "hostname": "https://www.gewächshäuser-zubehör.de/",
+  "email": "gewächshäuser-zubehör.de@surrealnetworks.io",
+  "organization": "gewächshäuser-zubehör.de",
+  "logoText": "Gewächshäuser-zubehör.de",
+  "title": "Gewächshäuser & Zubehör",
+  "subline": "Der Online Shop für Selbstversorger",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
     "9052184"
   ],
   "featuredCategories": [
-    "Gew\u00e4chsh\u00e4user",
-    "Gew\u00e4chsh\u00e4user",
-    "Gew\u00e4chsh\u00e4user",
-    "Gew\u00e4chshaus-Zubeh\u00f6r",
-    "Gew\u00e4chsh\u00e4user",
-    "Gew\u00e4chshaus-Zubeh\u00f6r"
+    "Gewächshäuser",
+    "Gewächshäuser",
+    "Gewächshäuser",
+    "Gewächshaus-Zubehör",
+    "Gewächshäuser",
+    "Gewächshaus-Zubehör"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
@@ -45,60 +45,93 @@
   ],
   "seo": {
     "htmlLang": "de",
-    "mainKeyword": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
-    "featureText": "Bei uns finden Sie alles rund um Gew\u00e4chsh\u00e4user. Wir bieten Ihnen sowohl Gew\u00e4chsh\u00e4user im Ganzen als auch entsprechendes Zubeh\u00f6r. Hierzu z\u00e4hlen Fundamente, Pflanztische, Rollos, automatische Dachl\u00fcfter und vieles mehr. Dabei setzen wir auf h\u00f6chste Qualit\u00e4tsstandards und bieten ausschlie\u00dflich Markenprodukte an.  ",
+    "mainKeyword": "Gewächshäuser & Zubehör",
+    "featureText": "Bei uns finden Sie alles rund um Gewächshäuser. Wir bieten Ihnen sowohl Gewächshäuser im Ganzen als auch entsprechendes Zubehör. Hierzu zählen Fundamente, Pflanztische, Rollos, automatische Dachlüfter und vieles mehr. Dabei setzen wir auf höchste Qualitätsstandards und bieten ausschließlich Markenprodukte an.  ",
     "index": {
-      "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - Alles f\u00fcr Ihre Pflanzen ",
-      "metaDescription": "Ob Gew\u00e4chsh\u00e4user im Ganzen oder entsprechendes Zubeh\u00f6r - bei uns einfach online bestellen. Hohe Qualit\u00e4t zu fairen Preisen!",
+      "title": "Gewächshäuser & Zubehör - Alles für Ihre Pflanzen ",
+      "metaDescription": "Ob Gewächshäuser im Ganzen oder entsprechendes Zubehör - bei uns einfach online bestellen. Hohe Qualität zu fairen Preisen!",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen auf Gew\u00e4chsh\u00e4user-Zubeh\u00f6r.de",
-            "text": "Herzlich willkommen auf Gew\u00e4chsh\u00e4user-Zubeh\u00f6r.de, Ihrem Online-Shop f\u00fcr hochwertige Gew\u00e4chsh\u00e4user und Zubeh\u00f6r. Unser Ziel ist es, Ihnen eine breite Auswahl an qualitativ hochwertigen Produkten zu bieten, die Ihnen dabei helfen, Ihren Garten in eine gr\u00fcne Oase zu verwandeln. Ob Sie ein erfahrener G\u00e4rtner sind oder einfach nur den ersten Schritt in die Welt des G\u00e4rtnerns machen m\u00f6chten, wir haben das passende Angebot f\u00fcr Sie. Unsere Gew\u00e4chsh\u00e4user sind robust und langlebig, um Ihnen jahrelange Freude zu bereiten. Mit unserem Zubeh\u00f6r k\u00f6nnen Sie Ihr Gew\u00e4chshaus individuell an Ihre Bed\u00fcrfnisse anpassen und es optimal nutzen. Besuchen Sie uns noch heute und entdecken Sie unser vielf\u00e4ltiges Angebot."
+            "title": "Willkommen auf Gewächshäuser-Zubehör.de",
+            "text": "Herzlich willkommen auf Gewächshäuser-Zubehör.de, Ihrem Online-Shop für hochwertige Gewächshäuser und Zubehör. Unser Ziel ist es, Ihnen eine breite Auswahl an qualitativ hochwertigen Produkten zu bieten, die Ihnen dabei helfen, Ihren Garten in eine grüne Oase zu verwandeln. Ob Sie ein erfahrener Gärtner sind oder einfach nur den ersten Schritt in die Welt des Gärtnerns machen möchten, wir haben das passende Angebot für Sie. Unsere Gewächshäuser sind robust und langlebig, um Ihnen jahrelange Freude zu bereiten. Mit unserem Zubehör können Sie Ihr Gewächshaus individuell an Ihre Bedürfnisse anpassen und es optimal nutzen. Besuchen Sie uns noch heute und entdecken Sie unser vielfältiges Angebot."
           },
           {
-            "title": "Gew\u00e4chsh\u00e4user",
-            "text": "In unserem Online-Shop f\u00fcr <a href=\"/kategorie/gewaechshaeuser/\" title=\"Gew\u00e4chsh\u00e4user\">Gew\u00e4chsh\u00e4user</a> und Zubeh\u00f6r finden Sie eine gro\u00dfe Auswahl an Gew\u00e4chsh\u00e4usern in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen. Unsere Gew\u00e4chsh\u00e4user sind aus hochwertigen Materialien gefertigt und bieten Schutz f\u00fcr Ihre Pflanzen vor den Witterungseinfl\u00fcssen. Ob Sie ein kleines Gew\u00e4chshaus f\u00fcr Ihren Balkon oder ein gro\u00dfes f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie das perfekte Gew\u00e4chshaus f\u00fcr Ihre Bed\u00fcrfnisse."
+            "title": "Gewächshäuser",
+            "text": "In unserem Online-Shop für <a href=\"/kategorie/gewaechshaeuser/\" title=\"Gewächshäuser\">Gewächshäuser</a> und Zubehör finden Sie eine große Auswahl an Gewächshäusern in verschiedenen Größen und Ausführungen. Unsere Gewächshäuser sind aus hochwertigen Materialien gefertigt und bieten Schutz für Ihre Pflanzen vor den Witterungseinflüssen. Ob Sie ein kleines Gewächshaus für Ihren Balkon oder ein großes für Ihren Garten suchen, bei uns werden Sie fündig. Stöbern Sie jetzt durch unser Angebot und finden Sie das perfekte Gewächshaus für Ihre Bedürfnisse."
           },
           {
-            "title": "Gew\u00e4chshaus-Zubeh\u00f6r",
-            "text": "Neben Gew\u00e4chsh\u00e4usern bieten wir auch eine Vielzahl an Zubeh\u00f6r f\u00fcr Gew\u00e4chsh\u00e4user an. Von Pflanzenst\u00e4ndern \u00fcber Bel\u00fcftungssysteme bis hin zu Beleuchtungsl\u00f6sungen finden Sie bei uns alles, was Sie f\u00fcr Ihr Gew\u00e4chshaus ben\u00f6tigen. Unser Zubeh\u00f6r ist ebenfalls aus hochwertigen Materialien gefertigt und sorgt f\u00fcr ein optimales Wachstum Ihrer Pflanzen. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie das passende Zubeh\u00f6r f\u00fcr Ihr Gew\u00e4chshaus."
+            "title": "Gewächshaus-Zubehör",
+            "text": "Neben Gewächshäusern bieten wir auch eine Vielzahl an Zubehör für Gewächshäuser an. Von Pflanzenständern über Belüftungssysteme bis hin zu Beleuchtungslösungen finden Sie bei uns alles, was Sie für Ihr Gewächshaus benötigen. Unser Zubehör ist ebenfalls aus hochwertigen Materialien gefertigt und sorgt für ein optimales Wachstum Ihrer Pflanzen. Stöbern Sie jetzt durch unser Angebot und finden Sie das passende Zubehör für Ihr Gewächshaus."
           }
         ]
       }
     },
     "shop": {
-      "title": "Shop f\u00fcr Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
-      "metaDescription": "Der Online Shop f\u00fcr Gew\u00e4chsh\u00e4user im Ganzen sowie Zubeh\u00f6r jeglicher Art - ein Zuhause f\u00fcr Ihre Pflanzen einfach per Mausklick bestellen!",
+      "title": "Shop für Gewächshäuser & Zubehör",
+      "metaDescription": "Der Online Shop für Gewächshäuser im Ganzen sowie Zubehör jeglicher Art - ein Zuhause für Ihre Pflanzen einfach per Mausklick bestellen!",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r - hochwertige Markenprodukte",
-      "metaDescription": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r! Qualit\u00e4tsprodukte von Marken wie KGT, Shelter Logic, Dobar, Juliana etc. - bei uns einfach online kaufen!",
+      "title": "Gewächshäuser & Zubehör - hochwertige Markenprodukte",
+      "metaDescription": "Gewächshäuser & Zubehör! Qualitätsprodukte von Marken wie KGT, Shelter Logic, Dobar, Juliana etc. - bei uns einfach online kaufen!",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT - g\u00fcnstig kaufen",
-    "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Passende Produkte der Kategorie $KATEGORIE f\u00fcr Ihren Anbau von Obst & Gem\u00fcse. Jetzt online bestellen! ",
+    "defaultTitle": "$PRODUKT - günstig kaufen",
+    "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Passende Produkte der Kategorie $KATEGORIE für Ihren Anbau von Obst & Gemüse. Jetzt online bestellen! ",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "2976249",
+        "seo": {
+          "texts": [
+            {
+              "title": "Juliana Gewächshaus Premium 10,9 m² Alu",
+              "text": "<p class=\"justify\">Das Juliana Gewächshaus Premium 10,9 m² Alu ist ein großzügig gestaltetes, hochwertiges Gewächshaus der Marke Juliana und eignet sich hervorragend für Hobbygärtner, die viel Platz für ihre Pflanzen benötigen. Mit einer Grundfläche von 10,9 m² bietet dieses Gewächshaus ausreichend Raum für die Anzucht von Obst, Gemüse und Blumen. Die Konstruktion aus Aluminium sorgt für Stabilität und eine ansprechende Optik. Die Türen und Fenster dieses Modells sind schwarz pulverbeschichtet, was dem Gewächshaus eine einzigartige und interessante Note verleiht.</p><p class=\"justify\">Das Juliana Gewächshaus Premium ist für alle gedacht, die ihren Garten zum Pflanzenparadies machen möchten. Es ist sowohl in Alu-Natur als auch in Anthrazit erhältlich. Die niedrige Türschwelle erleichtert den Zugang und ermöglicht auch das Befahren des Gewächshauses mit einer Schubkarre oder einem Rollstuhl. Die Dachrinne bietet eine innovative Lösung für die Reinigung, denn sie kann aufgeklappt werden, um den Verschmutzungen einfach zu entfernen. Der rostfreie Türgriff ist mit einem integrierten Schloss versehen, was für eine praktische und sichere Handhabung sorgt.</p><p class=\"justify\">Der Dachfirst ist mit formschönen Kunststoffbeschlägen ausgestattet, die als Abschluss für die Profile dienen und dem Gewächshaus eine besondere Note verleihen. Eine optionale Dachfirstverzierung im viktorianischen Stil ist ebenfalls erhältlich und dient auch als Vogelabwehr. Das Juliana Fundament kann zusätzlich erworben werden und wird bei dieser Gewächshausserie besonders empfohlen, um eine stabile Basis für den Alurahmen zu gewährleisten.</p><p class=\"justify\">Die Glasplatten des Gewächshauses lassen viel Licht durch und machen die Pflanzen sichtbar. Im Frühling ist das Besonders wichtig, wenn das Sonnenlicht noch nicht so intensiv ist. Aber auch im Sommer kann das Gewächshaus mit Hilfe von Schattierungen vor Überhitzung und Verbrennen der Pflanzen geschützt werden. Dabei können spezielle Pasten oder Gardinen zum Einsatz kommen. Die Blankglaseindeckung besteht aus geteilten Scheiben, die mit Fensterglas vergleichbar sind. Bei Bruch zerfallen sie in große, scharfe Stücke. Optional kann auch Einscheibensicherheitsglas (ESG) gewählt werden, welches wie eine Autoscheibe in kleine, unscharfe Stücke zerfällt, um das Verletzungsrisiko zu verringern.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2977122",
+        "seo": {
+          "texts": [
+            {
+              "title": "Juliana Gewächshaus Gärtner 21,4 m² SDPL Alu",
+              "text": "<p class=\"justify\">Das Juliana Gewächshaus Gärtner 21,4 m² SDPL Alu (SKU: 2977122) ist ein hochwertiges und geräumiges Gewächshaus der Marke Juliana, das ideal für ambitionierte Hobbygärtner ist. Egal, ob es zum Züchten und Anpflanzen verschiedener Pflanzen verwendet wird oder als naturnaher Aufenthaltsort im Garten dienen soll, dieses Gewächshaus bietet ausreichend Platz und Möglichkeiten für alle Gartenliebhaber.</p><p class=\"justify\">Das Juliana Gärtner Gewächshaus ist in Alu-Natur oder Anthrazit erhältlich und besticht durch eine niedrige Türschwelle, die den Zugang erleichtert und das Befahren des Gewächshauses mit einer Schubkarre oder einem Rollstuhl vereinfacht. Die Dachrinne hat die einzigartige Eigenschaft, dass deren Oberteil für die Reinigung geöffnet werden kann. Zudem ist der Türgriff rostfrei und mit einem integrierten Schloss versehen. Der Dachfirst ist an beiden Enden mit formschönen Kunststoffbeschlägen versehen, die dem Gewächshaus eine besondere Note verleihen.</p><p class=\"justify\">Die SDPL-Eindeckung (Stegdoppelplatten) des Juliana Gewächshauses Gärtner 21,4 m² bietet eine hervorragende Isolierung und UV-Beständigkeit, wodurch eine Schattierung im Sommer überflüssig ist. Die Eindeckung mit SDPL-Platten verlängert die Ernte- und Wachstumssaison und hält die Heizkosten gering. Hier wird aus dem Hobbygärtner ein wahrer Gartenprofi.</p><p class=\"justify\">Während das Juliana Fundament optional als Zukauf erhältlich ist, wird es bei dieser Gewächshausserie jedoch dringend empfohlen. Es wird benötigt, um den Alurahmen und die abgesetzte Tür für einen barrierefreien Zugang zu unterbauen. Mit seinen fünf Sternen und 429 Bewertungen kann man sicher sein, dass viele zufriedene Kunden dieses Gewächshaus bereits in ihren Gärten stehen haben.</p><p class=\"justify\">Das Juliana Gewächshaus Gärtner 21,4 m² SDPL Alu eignet sich perfekt für alle, die in größeren Dimensionen denken und ihre Gartenarbeit auf ein professionelles Niveau heben möchten. Mit diesem Gewächshaus wird Ihr Gartenbereich nicht nur optisch aufgewertet, sondern bietet Ihnen auch zahlreiche Möglichkeiten für ein erfolgreiches Gärtnern.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9052184",
+        "seo": {
+          "texts": [
+            {
+              "title": "Vitavia Gewächshaus Venus 2500 ESG 3mm Grün",
+              "text": "<p class=\"justify\">Das Vitavia Gewächshaus Venus 2500 ESG 3mm Grün ist die perfekte Lösung für alle Gartenfreunde, die ihren Pflanzen optimale Wachstumsbedingungen bieten möchten. Mit einer Grundfläche von 2,5m² bietet das Gewächshaus ausreichend Platz für Kastenpflanzen oder den Anbau von Salat, Gemüse und wertvollen Kräutern. Die 3mm dicke Einscheibensicherheitsglas-Verglasung garantiert eine hohe Lichtdurchlässigkeit und eine klassische Optik.</p><p class=\"justify\">Die Konstruktion des Gewächshauses besteht aus widerstandsfähigem Aluminium mit einer grünen Lackierung. Die Verglasung erfolgt durch rostfreie Glasfederklammern ohne Kitt, sodass das Gehärtete Glas nicht zu scharfkantigen Splittern zerbricht und somit die Verletzungsgefahr minimiert wird. Die kugelgelagerte Schiebetür ermöglicht einen einfachen Zugang, während das aufstellbare Dachfenster für eine effektive Belüftung sorgt und Hitzestau verhindert.</p><p class=\"justify\">Der Aufbau des Venus 2500 ist unkompliziert und erfordert keinerlei handwerkliches Geschick. Eine gut bebilderte und übersichtliche Montageanleitung führt Schritt für Schritt durch den Prozess. Die Seitenwandhöhe beträgt 124cm, und das Gewächshaus verfügt über einen Sockel mit den Maßen 192cm x 130cm. Die Tür misst 161cm in der Höhe und 61cm in der Breite.</p><p class=\"justify\">Bei diesem Gewächshaus handelt es sich um ein TÜV-zertifiziertes Produkt, das auf Sicherheit geprüft wurde. Bitte beachten Sie, dass Zubehörteile wie Regale, Tische, Pflanzen und das abgebildete Stahlfundament nicht im Lieferumfang enthalten sind. Wir empfehlen den Einsatz des passenden Stahlfundamentes (Art.Nr. 9052473) für eine sichere Rechtwinkligkeit und Ebenheit des Gewächshauses.</p><p class=\"justify\">Verwirklichen Sie Ihre Gartenprojekte mit dem Vitavia Gewächshaus Venus 2500 ESG 3mm Grün und genießen Sie gesunde, selbst angebaute Pflanzen in einer ansprechenden Umgebung.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
-    "defaultMetaDescription": "$KATEGORIE Gew\u00e4chsh\u00e4user von hoher Qualit\u00e4t sowie s\u00e4mtliches Zubeh\u00f6r, wie z.B. Fundamente, Pflanzregale, Dachl\u00fcfter, Rollos - Hier finden Sie alles!",
+    "defaultTitle": "$KATEGORIE | Gewächshäuser & Zubehör",
+    "defaultMetaDescription": "$KATEGORIE Gewächshäuser von hoher Qualität sowie sämtliches Zubehör, wie z.B. Fundamente, Pflanzregale, Dachlüfter, Rollos - Hier finden Sie alles!",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -106,8 +139,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -125,15 +158,15 @@
   },
   "brandSeo": {
     "defaultTitle": "$HERSTELLER - Markenprodukte zu fairen Preisen",
-    "defaultMetaDescription": "Bei uns finden Sie hochwertige Produkte von renommierten Herstellern wie $HERSTELLER - Gew\u00e4chsh\u00e4user & Zubeh\u00f6r in Top Qualit\u00e4t zu fairen Preisen!",
+    "defaultMetaDescription": "Bei uns finden Sie hochwertige Produkte von renommierten Herstellern wie $HERSTELLER - Gewächshäuser & Zubehör in Top Qualität zu fairen Preisen!",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
@@ -143,19 +176,19 @@
     {
       "title": "Start",
       "linkTo": "/",
-      "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r",
+      "linkTitle": "Gewächshäuser & Zubehör",
       "publish": true
     },
     {
       "title": "Shop",
       "linkTo": "/shop/",
-      "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Shop",
+      "linkTitle": "Gewächshäuser & Zubehör Shop",
       "publish": true
     },
     {
       "title": "Marken",
       "linkTo": "/marken/",
-      "linkTitle": "Gew\u00e4chsh\u00e4user & Zubeh\u00f6r Marken",
+      "linkTitle": "Gewächshäuser & Zubehör Marken",
       "publish": true
     },
     {
